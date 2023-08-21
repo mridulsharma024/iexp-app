@@ -1,0 +1,7 @@
+{
+  "name": "iexp-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
